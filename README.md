@@ -2,19 +2,17 @@
 
 # Hi 👋, I'm Neil
 
-### BCA Student | Aspiring Data Analyst | Web Developer
+### BCA Student • Aspiring Data Analyst • Web Developer
 
 Building projects, analyzing data, and learning every day.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Web+Developer;Python+%7C+SQL+%7C+JavaScript;Building+Projects+and+Learning+Every+Day">
-</p>
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?logo=python">
   <img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
   <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
@@ -23,45 +21,57 @@ Building projects, analyzing data, and learning every day.
   <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
   <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript">
-  <img src="https://img.shields.io/badge/Git-0d1117?logo=git">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
 </p>
 
 ---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-**Data Analytics • SQL • Power BI • Web Development**
+- Data Analytics
+- SQL
+- Power BI
+- Web Development
+- Python
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=Neil-M-Git&label=Profile%20Views&color=0e75b6&style=flat"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Neil-M-Git&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neil-M-Git&show_icons=true&theme=ambient_gradient" height="170">
+</p>
 
-<a href="https://github.com/Neil-M-Git">
-<img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient" height="170">
-</a>
-
-<a href="https://github.com/Neil-M-Git">
-<img src="https://github-readme-stats.vercel.app/api?username=Neil-M-Git&show_icons=true&theme=ambient_gradient" height="170">
-</a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-M-Git&layout=compact&theme=ambient_gradient">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-M-Git&layout=compact&theme=ambient_gradient">
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| [Glassmorphic Calculator](https://github.com/Neil-M-Git/Glassmorphic-Calculator) | Modern calculator built using HTML, CSS and JavaScript |
-| [Interactive Random Password Generator](https://github.com/Neil-M-Git/Interactive-Random-Password-Generator) | Secure password generator with customizable options |
-| [Certificates](https://github.com/Neil-M-Git/Certificates) | Collection of certifications and learning achievements |
+### 🔹 Glassmorphic Calculator
+Modern calculator built using HTML, CSS and JavaScript.
+
+🔗 https://github.com/Neil-M-Git/Glassmorphic-Calculator
+
+---
+
+### 🔹 Interactive Random Password Generator
+Secure password generator with customizable options.
+
+🔗 https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
+
+---
+
+### 🔹 Certificates
+Collection of certifications and learning achievements.
+
+🔗 https://github.com/Neil-M-Git/Certificates
 
 ---
 
@@ -77,7 +87,19 @@ Building projects, analyzing data, and learning every day.
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/neil-majumdar-488817n/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge">
+<p align="center">
+
+<a href="https://www.linkedin.com/in/neil-majumdar-488817n/" target="_blank">
+<img src="https://img.shields.io/badge/Neil_Majumdar-0A66C2?logo=linkedin&style=for-the-badge">
 </a>
+
+<a href="https://www.instagram.com/moonboy.xo/" target="_blank">
+<img src="https://img.shields.io/badge/@moonboy.xo-E4405F?logo=instagram&style=for-the-badge">
+</a>
+
+<a href="https://x.com/moonboy_xo" target="_blank">
+<img src="https://img.shields.io/badge/@moonboy_xo-000000?logo=x&style=for-the-badge">
+</a>
+
+</p>
 </div>

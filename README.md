@@ -2,59 +2,44 @@
 
 # Hi 👋, I'm Neil
 
-### BCA Student | Aspiring Data Analyst | Python & SQL Learner
+### BCA Student | Aspiring Data Analyst | Web Developer
 
-Turning data into insights and ideas into projects.
-
----
+Building projects, analyzing data, and learning every day.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Building+Projects+and+Learning+Every+Day;BCA+Student">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Web+Developer;Python+%7C+SQL+%7C+JavaScript;Building+Projects+and+Learning+Every+Day">
 </p>
 
 ---
 
 ## 💻 Tech Stack
 
-<a href="https://www.python.org">
-<img src="https://img.shields.io/badge/Python-0d1117?logo=python">
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
-</a>
-
-<a href="https://powerbi.microsoft.com/">
-<img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel">
-<img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-0d1117?logo=git">
-</a>
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?logo=python">
+  <img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
+  <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
+  <img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
+  <img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript">
+  <img src="https://img.shields.io/badge/Git-0d1117?logo=git">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
+</p>
 
 ---
 
-🌱 Currently Learning:
+🌱 Currently Learning
 
-**Data Analytics • SQL • Power BI • Python**
+**Data Analytics • SQL • Power BI • Web Development**
 
 ---
 
 ## 📊 GitHub Stats
 
 <img src="https://komarev.com/ghpvc/?username=Neil-M-Git&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<br><br>
 
 <a href="https://github.com/Neil-M-Git">
 <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient" height="170">
@@ -72,15 +57,21 @@ Turning data into insights and ideas into projects.
 
 ## 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neil-M-Git&repo=Glassmorphic-Calculator&theme=ambient_gradient)](https://github.com/Neil-M-Git/Glassmorphic-Calculator)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neil-M-Git&repo=Interactive-Random-Password-Generator&theme=ambient_gradient)](https://github.com/Neil-M-Git/Interactive-Random-Password-Generator)
+| Project | Description |
+|----------|-------------|
+| [Glassmorphic Calculator](https://github.com/Neil-M-Git/Glassmorphic-Calculator) | Modern calculator built using HTML, CSS and JavaScript |
+| [Interactive Random Password Generator](https://github.com/Neil-M-Git/Interactive-Random-Password-Generator) | Secure password generator with customizable options |
+| [Certificates](https://github.com/Neil-M-Git/Certificates) | Collection of certifications and learning achievements |
 
 ---
 
-## 📜 Certifications
+## 🎯 Current Focus
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Neil-M-Git&repo=Certificates&theme=ambient_gradient)](https://github.com/Neil-M-Git/Certificates)
+- Building Web Development Projects
+- Learning SQL & Power BI
+- Strengthening Python Skills
+- Creating a Strong Project Portfolio
+- Exploring Data Analytics
 
 ---
 
@@ -89,5 +80,4 @@ Turning data into insights and ideas into projects.
 <a href="https://www.linkedin.com/in/neil-majumdar-488817n/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge">
 </a>
-
 </div>

@@ -4,7 +4,7 @@
 
 ### BCA Student • Aspiring Data Analyst • Web Developer
 
-Building projects, analyzing data, and learning every day.
+Building projects across web development and data analytics.
 
 </div>
 
@@ -21,6 +21,8 @@ Building projects, analyzing data, and learning every day.
   <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
   <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript">
+  <img src="https://img.shields.io/badge/Git-0d1117?logo=git">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
 </p>
 
 ---
@@ -42,12 +44,7 @@ Building projects, analyzing data, and learning every day.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient" height="170">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neil-M-Git&show_icons=true&theme=ambient_gradient" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-M-Git&layout=compact&theme=ambient_gradient">
+  <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient">
 </p>
 
 ---
@@ -102,4 +99,5 @@ Collection of certifications and learning achievements.
 </a>
 
 </p>
+
 </div>

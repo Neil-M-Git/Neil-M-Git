@@ -37,18 +37,6 @@ Building projects across web development and data analytics.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Neil-M-Git&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=ambient-gradient">
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 Glassmorphic Calculator

@@ -15,6 +15,7 @@ Building projects across web development and data analytics.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?logo=python">
   <img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
   <img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
   <img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
@@ -39,34 +40,42 @@ Building projects across web development and data analytics.
 
 ## 🚀 Featured Projects
 
+### 🔹 Netflix Data Analytics Project
+Basic Netflix Data Analysis project focusing on performing Exploratory Data Analysis (EDA) on the entire Netflix Library and uncover insights related to:
+
+- Content distribution
+- Top producing countries
+- Ratings
+- Genres
+- Content growth over the years
+
+Completed with the aid of Python libraries such as Pandas, Matplotlib, and Seaborn.
+
+🔗 Link - https://github.com/Neil-M-Git/Netflix-Data-Analysis
+
+---
+
 ### 🔹 Glassmorphic Calculator
 Modern calculator built using HTML, CSS and JavaScript.
 
-🔗 https://github.com/Neil-M-Git/Glassmorphic-Calculator
+🔗 link - https://github.com/Neil-M-Git/Glassmorphic-Calculator
 
 ---
 
 ### 🔹 Interactive Random Password Generator
 Secure password generator with customizable options.
 
-🔗 https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
-
----
-
-### 🔹 Certificates
-Collection of certifications and learning achievements.
-
-🔗 https://github.com/Neil-M-Git/Certificates
+🔗 link - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator
 
 ---
 
 ## 🎯 Current Focus
 
-- Building Web Development Projects
-- Learning SQL & Power BI
 - Strengthening Python Skills
-- Creating a Strong Project Portfolio
 - Exploring Data Analytics
+- Learning SQL, Power BI & Tableau
+- Creating a Strong Project Portfolio
+- Building Web Development Projects
 
 ---
 
@@ -87,5 +96,4 @@ Collection of certifications and learning achievements.
 </a>
 
 </p>
-
 </div>

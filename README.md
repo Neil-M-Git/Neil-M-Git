@@ -13,17 +13,51 @@ Building projects across web development and data analytics.
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?logo=python">
-  <img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
-  <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
-  <img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
-  <img src="https://img.shields.io/badge/Tableau-0d1117?logo=tableau">
-  <img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
-  <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript">
-  <img src="https://img.shields.io/badge/Git-0d1117?logo=git">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/Python-0d1117?logo=python">
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tableau-0d1117?logo=tableau">
+</a>
+
+<a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank">
+<img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/Git-0d1117?logo=git">
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0d1117?logo=github">
+</a>
+
 </p>
 
 ---
@@ -94,6 +128,5 @@ Secure password generator with customizable options.
 <a href="https://x.com/moonboy_xo" target="_blank">
 <img src="https://img.shields.io/badge/@moonboy_xo-000000?logo=x&style=for-the-badge">
 </a>
-
 </p>
 </div>

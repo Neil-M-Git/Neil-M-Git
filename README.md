@@ -15,9 +15,9 @@ Building projects across web development and data analytics.
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?logo=python">
   <img src="https://img.shields.io/badge/Pandas-0d1117?logo=pandas">
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau">
   <img src="https://img.shields.io/badge/MySQL-0d1117?logo=mysql">
   <img src="https://img.shields.io/badge/Power_BI-0d1117?logo=powerbi">
+  <img src="https://img.shields.io/badge/Tableau-0d1117?logo=tableau">
   <img src="https://img.shields.io/badge/Excel-0d1117?logo=microsoftexcel">
   <img src="https://img.shields.io/badge/HTML5-0d1117?logo=html5">
   <img src="https://img.shields.io/badge/CSS3-0d1117?logo=css3">

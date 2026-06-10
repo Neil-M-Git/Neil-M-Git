@@ -4,7 +4,7 @@
 
 ### Computer Science (BCA) Student • Aspiring Data Analyst • Web Developer
 
-Building projects across web development and data analytics.
+Building projects across data analytics and web development.
 
 </div>
 

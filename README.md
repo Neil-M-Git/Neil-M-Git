@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Neil
 
-### BCA Student • Aspiring Data Analyst • Web Developer
+### Computer Science (BCA) Student • Aspiring Data Analyst • Web Developer
 
 Building projects across web development and data analytics.
 

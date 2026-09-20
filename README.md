@@ -65,7 +65,7 @@ Building projects across data analytics and web development.
 ## 🌱 Currently Learning
 
 - Data Analytics
-- SQL
+- AI/ML integration with Real World Business scenarios
 - Power BI
 - Web Development
 - Python
@@ -105,10 +105,9 @@ Secure password generator with customizable options.
 
 ## 🎯 Current Focus
 
-- Strengthening Python Skills
+- Learning Integration of AI/ML to solve real-world business challenges.
 - Exploring Data Analytics
 - Learning SQL, Power BI & Tableau
-- Creating a Strong Project Portfolio
 - Building Web Development Projects
 
 ---

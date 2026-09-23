@@ -62,13 +62,13 @@ Building projects across data analytics and web development.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 - Data Analytics
 - AI/ML integration with Real World Business scenarios
 - Power BI
-- Web Development
 - Python
+- Simple Web Development 
 
 ---
 
@@ -108,7 +108,7 @@ Secure password generator with customizable options.
 - Learning Integration of AI/ML to solve real-world business challenges.
 - Exploring Data Analytics
 - Learning SQL, Power BI & Tableau
-- Building Web Development Projects
+- Building Simple Web Development Projects
 
 ---
 

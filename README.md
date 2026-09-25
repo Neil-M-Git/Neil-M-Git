@@ -74,7 +74,7 @@ Building projects across data analytics and web development.
 
 ## 🚀 Featured Projects
 
-🔹 ML Based Demand Forecasting Project
+### 🔹 ML Based Demand Forecasting Project
 
 Machine Learning-based Demand Forecasting project developed during my R&D internship at Jadson Technologies Pvt. Ltd., focusing on analyzing historical e-commerce sales data and forecasting future demand.
 
@@ -91,6 +91,7 @@ Implemented using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, with Line
 ---
 
 ### 🔹 Netflix Data Analytics Project
+
 Basic Netflix Data Analysis project focusing on performing Exploratory Data Analysis (EDA) on the entire Netflix Library and uncover insights related to:
 
 - Content distribution
@@ -106,6 +107,7 @@ Completed with the aid of Python libraries such as Pandas, Matplotlib, and Seabo
 ---
 
 ### 🔹 Interactive Random Password Generator
+
 Secure password generator with customizable options.
 
 🔗 link - https://github.com/Neil-M-Git/Interactive-Random-Password-Generator

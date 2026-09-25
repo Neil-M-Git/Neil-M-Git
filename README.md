@@ -78,11 +78,11 @@ Building projects across data analytics and web development.
 
 Machine Learning-based Demand Forecasting project developed during my R&D internship at Jadson Technologies Pvt. Ltd., focusing on analyzing historical e-commerce sales data and forecasting future demand.
 
-Sales trends and patterns
-Monthly & quarterly analysis
-Sales volatility
-Future sales forecasting
-Business insights for inventory and demand planning
+- Sales trends and patterns
+- Monthly & quarterly analysis
+- Sales volatility
+- Future sales forecasting
+- Business insights for inventory and demand planning
 
 Implemented using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, with Linear Regression for sales forecasting.
 

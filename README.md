@@ -62,6 +62,12 @@ Building projects across data analytics and web development.
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Neil-M-Git&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
 ## 🌱 Currently Exploring
 
 - Data Analytics

@@ -4,8 +4,8 @@
 
 ### Computer Science (BCA) Student • Aspiring Data Analyst
 
-Building projects across data analytics and web development.
-Exploring Integration of AI/ML to solve real-world business challenges.
+- Building projects across data analytics and web development.
+- Exploring Integration of AI/ML to solve real-world business challenges.
 
 </div>
 

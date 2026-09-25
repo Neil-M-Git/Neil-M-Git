@@ -64,7 +64,9 @@ Building projects across data analytics and web development.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Neil-M-Git&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Neil-M-Git&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
 
 ---
 

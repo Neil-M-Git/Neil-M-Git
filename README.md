@@ -74,6 +74,22 @@ Building projects across data analytics and web development.
 
 ## 🚀 Featured Projects
 
+🔹 ML Based Demand Forecasting Project
+
+Machine Learning-based Demand Forecasting project developed during my R&D internship at Jadson Technologies Pvt. Ltd., focusing on analyzing historical e-commerce sales data and forecasting future demand.
+
+Sales trends and patterns
+Monthly & quarterly analysis
+Sales volatility
+Future sales forecasting
+Business insights for inventory and demand planning
+
+Implemented using Python, Pandas, NumPy, Matplotlib, and Scikit-learn, with Linear Regression for sales forecasting.
+
+🔗 Link - https://github.com/Neil-M-Git/ML-Based-Demand-Forecasting
+
+---
+
 ### 🔹 Netflix Data Analytics Project
 Basic Netflix Data Analysis project focusing on performing Exploratory Data Analysis (EDA) on the entire Netflix Library and uncover insights related to:
 
@@ -86,13 +102,6 @@ Basic Netflix Data Analysis project focusing on performing Exploratory Data Anal
 Completed with the aid of Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 🔗 Link - https://github.com/Neil-M-Git/Netflix-Data-Analysis
-
----
-
-### 🔹 Glassmorphic Calculator
-Modern calculator built using HTML, CSS and JavaScript.
-
-🔗 link - https://github.com/Neil-M-Git/Glassmorphic-Calculator
 
 ---
 
